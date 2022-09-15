@@ -1,0 +1,1 @@
+g++ main.cc -o main && (./main < cruz_aspa.txt) > cruz_aspa_out.txt
